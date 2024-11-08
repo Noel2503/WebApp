@@ -13,7 +13,7 @@
             <configuration>
                <archive>
                   <manifestEntries>
-                     <Main-Class>com.example.Main</Main-Class>
+                     <Main-Class>com.example.HelloServlet</Main-Class>
                   </manifestEntries>
                </archive>
             </configuration>
